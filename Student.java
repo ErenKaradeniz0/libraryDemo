@@ -1,5 +1,3 @@
-package SecondTermWeek1.LibraryDemo;
-
 class Student {
     //Data Members
     private String name;
