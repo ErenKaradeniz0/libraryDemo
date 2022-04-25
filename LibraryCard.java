@@ -1,6 +1,3 @@
-package SecondTermWeek1.LibraryDemo;
-
-
 public class LibraryCard {
     // Data Members
     //student owner of this card
