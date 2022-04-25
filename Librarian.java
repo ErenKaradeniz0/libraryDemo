@@ -1,5 +1,3 @@
-package SecondTermWeek1.LibraryDemo;
-
 class Librarian {
     public static void main(String[] args) {
         Student student;
